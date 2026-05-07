@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Own Jung
+# 👋 Hello, I'm Pannathatdev
 
 💻 Laravel / Livewire Developer  
 🎨 UI/UX & Web Design  
