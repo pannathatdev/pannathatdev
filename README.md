@@ -2,7 +2,7 @@
 
 💻 Laravel / Livewire Developer  
 🎨 UI/UX & Web Design  
-⚡ Casino API / Real-time System  
+⚡ API / Real-time System  
 🚀 Building scalable admin systems
 
 ---
@@ -27,8 +27,6 @@
 
 ## 🔥 Current Projects
 
-- Lottery System
-- Casino Prediction System
 - Stock Management
 - WooCommerce Membership
 
